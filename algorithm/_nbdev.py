@@ -2,7 +2,7 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {"DisjointSet": "disjoint_set.ipynb"}
+index = {"DisjointSet": "00_disjoint_set.ipynb"}
 
 modules = ["core/utils.py"]
 
