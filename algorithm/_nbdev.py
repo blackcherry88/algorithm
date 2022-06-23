@@ -4,7 +4,7 @@ __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
 index = {"DisjointSet": "00_disjoint_set.ipynb"}
 
-modules = ["core/utils.py"]
+modules = ["core/ds/disjointset.py"]
 
 doc_url = "https://blackcherry88.github.io/algorithm/"
 
