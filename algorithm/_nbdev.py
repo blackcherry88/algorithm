@@ -6,12 +6,31 @@ index = {"DisjointSet": "00_disjoint_set.ipynb",
          "left": "01_heap.ipynb",
          "right": "01_heap.ipynb",
          "parent": "01_heap.ipynb",
-         "naive_heapify": "01_heap.ipynb",
-         "naive_heap_down": "01_heap.ipynb",
-         "heapify": "01_heap.ipynb"}
+         "heapify": "01_heap.ipynb",
+         "heap_down": "01_heap.ipynb",
+         "heap_up": "01_heap.ipynb",
+         "counting_sort": "04_count_sort.ipynb",
+         "bucket_sort": "05_bucket_sort.ipynb",
+         "merge_sort": "06_merge_sort.ipynb",
+         "LRUCache": "09_lru_cache.ipynb",
+         "Node": "51_string_huffman_encoding.ipynb",
+         "create_tree": "20_tree_lowest_common_ancestor.ipynb",
+         "bst_successor": "20_tree_lowest_common_ancestor.ipynb",
+         "bst_precessor": "20_tree_lowest_common_ancestor.ipynb",
+         "bst_insert": "20_tree_lowest_common_ancestor.ipynb",
+         "SuffixTrie": "50_string_suffix_trie.ipynb",
+         "huffman_encode": "51_string_huffman_encoding.ipynb",
+         "huffman": "51_string_huffman_encoding.ipynb"}
 
 modules = ["core/ds/disjointset.py",
-           "core/ds/heap.py"]
+           "core/ds/heap.py",
+           "core/sorting/couting_sort.py",
+           "core/sorting/bucket_sort.py",
+           "core/sorting/merge_sort.py",
+           "core/hash/lru.py",
+           "core/ds/tree.py",
+           "core/ds/string/suffix_trie.py",
+           "core/ds/string/huffman.py"]
 
 doc_url = "https://blackcherry88.github.io/algorithm/"
 
